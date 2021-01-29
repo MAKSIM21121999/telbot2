@@ -1,14 +1,14 @@
 {
-    "name": "telbot",
+    "name": "telbot2",
     "description": "Deploy a Telegram bot that will help you to hide your identity.",
     "keywords": [
       "telegram-bot",
       "python",
       "proxy"
     ],
-    "website": "https://github.com/MAKSIM21121999/telbot",
-    "repository": "https://github.com/MAKSIM21121999/telbot",
-    "success_url": "https://github.com/MAKSIM21121999/telbot",
+    "website": "https://github.com/MAKSIM21121999/telbot2",
+    "repository": "https://github.com/MAKSIM21121999/telbot2",
+    "success_url": "https://github.com/MAKSIM21121999/telbot2",
     "env": {
       "HEROKU_APP_NAME": {
         "description": "The name of your Heroku app. Yes, again. Just copy-paste it!"
