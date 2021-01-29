@@ -1,5 +1,5 @@
 {
-    "name": "Telegram Support Bot",
+    "name": "telbot",
     "description": "Deploy a Telegram bot that will help you to hide your identity.",
     "keywords": [
       "telegram-bot",
